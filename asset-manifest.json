@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SecretWishesIris/static/css/main.6b5c999b.css",
-    "main.js": "/SecretWishesIris/static/js/main.8ad045da.js",
+    "main.js": "/SecretWishesIris/static/js/main.9e72631c.js",
     "static/media/formbg.png": "/SecretWishesIris/static/media/formbg.6cb7f275a8ef9f2e20b2.png",
     "static/media/saudebazi.png": "/SecretWishesIris/static/media/saudebazi.8b31f33843a1479f5bbe.png",
     "static/media/ZingScriptRustSBDemo-Base.otf": "/SecretWishesIris/static/media/ZingScriptRustSBDemo-Base.33b3c00cc40ff1be1ecb.otf",
@@ -19,10 +19,10 @@
     "static/media/promise.png": "/SecretWishesIris/static/media/promise.64a7d612aa6392a08642.png",
     "index.html": "/SecretWishesIris/index.html",
     "main.6b5c999b.css.map": "/SecretWishesIris/static/css/main.6b5c999b.css.map",
-    "main.8ad045da.js.map": "/SecretWishesIris/static/js/main.8ad045da.js.map"
+    "main.9e72631c.js.map": "/SecretWishesIris/static/js/main.9e72631c.js.map"
   },
   "entrypoints": [
     "static/css/main.6b5c999b.css",
-    "static/js/main.8ad045da.js"
+    "static/js/main.9e72631c.js"
   ]
 }
