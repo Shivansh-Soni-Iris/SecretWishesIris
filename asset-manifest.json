@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3d7f2ef.css",
-    "main.js": "/static/js/main.c468e88e.js",
-    "static/media/formbg.png": "/static/media/formbg.6cb7f275a8ef9f2e20b2.png",
-    "static/media/saudebazi.png": "/static/media/saudebazi.8b31f33843a1479f5bbe.png",
-    "static/media/ZingScriptRustSBDemo-Base.otf": "/static/media/ZingScriptRustSBDemo-Base.33b3c00cc40ff1be1ecb.otf",
-    "static/media/redp.png": "/static/media/redp.6961dc3091c14f3bdde0.png",
-    "static/media/Allura-Regular.ttf": "/static/media/Allura-Regular.20a2998cacd8d0b510b3.ttf",
-    "static/media/pday.png": "/static/media/pday.6256a3dcbbc4373cd98c.png",
-    "static/media/pattern.png": "/static/media/pattern.68fea1869807040157cd.png",
-    "static/media/gift.png": "/static/media/gift.db63a54057af9b3e6c22.png",
-    "static/media/choco.png": "/static/media/choco.3ff86822f248fcf4eacb.png",
-    "static/media/hug.png": "/static/media/hug.07afdcb9277a12a97092.png",
-    "static/media/rose1.png": "/static/media/rose1.e8047ffe43a8f22d456c.png",
-    "static/media/teddy.png": "/static/media/teddy.780fc852c9d2cadbdbd5.png",
-    "static/media/valen.png": "/static/media/valen.c7d1082e0ce8d5900d34.png",
-    "static/media/Rapunled.otf": "/static/media/Rapunled.cf6375b1319b986fc5b8.otf",
-    "static/media/promise.png": "/static/media/promise.64a7d612aa6392a08642.png",
-    "index.html": "/index.html",
-    "main.a3d7f2ef.css.map": "/static/css/main.a3d7f2ef.css.map",
-    "main.c468e88e.js.map": "/static/js/main.c468e88e.js.map"
+    "main.css": "/SecretWishesIris/static/css/main.6b5c999b.css",
+    "main.js": "/SecretWishesIris/static/js/main.cb87b957.js",
+    "static/media/formbg.png": "/SecretWishesIris/static/media/formbg.6cb7f275a8ef9f2e20b2.png",
+    "static/media/saudebazi.png": "/SecretWishesIris/static/media/saudebazi.8b31f33843a1479f5bbe.png",
+    "static/media/ZingScriptRustSBDemo-Base.otf": "/SecretWishesIris/static/media/ZingScriptRustSBDemo-Base.33b3c00cc40ff1be1ecb.otf",
+    "static/media/redp.png": "/SecretWishesIris/static/media/redp.6961dc3091c14f3bdde0.png",
+    "static/media/Allura-Regular.ttf": "/SecretWishesIris/static/media/Allura-Regular.20a2998cacd8d0b510b3.ttf",
+    "static/media/pday.png": "/SecretWishesIris/static/media/pday.6256a3dcbbc4373cd98c.png",
+    "static/media/pattern.png": "/SecretWishesIris/static/media/pattern.68fea1869807040157cd.png",
+    "static/media/gift.png": "/SecretWishesIris/static/media/gift.db63a54057af9b3e6c22.png",
+    "static/media/choco.png": "/SecretWishesIris/static/media/choco.3ff86822f248fcf4eacb.png",
+    "static/media/hug.png": "/SecretWishesIris/static/media/hug.07afdcb9277a12a97092.png",
+    "static/media/rose1.png": "/SecretWishesIris/static/media/rose1.e8047ffe43a8f22d456c.png",
+    "static/media/teddy.png": "/SecretWishesIris/static/media/teddy.780fc852c9d2cadbdbd5.png",
+    "static/media/valen.png": "/SecretWishesIris/static/media/valen.c7d1082e0ce8d5900d34.png",
+    "static/media/Rapunled.otf": "/SecretWishesIris/static/media/Rapunled.cf6375b1319b986fc5b8.otf",
+    "static/media/promise.png": "/SecretWishesIris/static/media/promise.64a7d612aa6392a08642.png",
+    "index.html": "/SecretWishesIris/index.html",
+    "main.6b5c999b.css.map": "/SecretWishesIris/static/css/main.6b5c999b.css.map",
+    "main.cb87b957.js.map": "/SecretWishesIris/static/js/main.cb87b957.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3d7f2ef.css",
-    "static/js/main.c468e88e.js"
+    "static/css/main.6b5c999b.css",
+    "static/js/main.cb87b957.js"
   ]
 }
