@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SecretWishesIris/static/css/main.6b5c999b.css",
-    "main.js": "/SecretWishesIris/static/js/main.9e72631c.js",
+    "main.css": "/SecretWishesIris/static/css/main.f34e10cb.css",
+    "main.js": "/SecretWishesIris/static/js/main.0b38de92.js",
     "static/media/formbg.png": "/SecretWishesIris/static/media/formbg.6cb7f275a8ef9f2e20b2.png",
     "static/media/saudebazi.png": "/SecretWishesIris/static/media/saudebazi.8b31f33843a1479f5bbe.png",
     "static/media/ZingScriptRustSBDemo-Base.otf": "/SecretWishesIris/static/media/ZingScriptRustSBDemo-Base.33b3c00cc40ff1be1ecb.otf",
@@ -18,11 +18,11 @@
     "static/media/Rapunled.otf": "/SecretWishesIris/static/media/Rapunled.cf6375b1319b986fc5b8.otf",
     "static/media/promise.png": "/SecretWishesIris/static/media/promise.64a7d612aa6392a08642.png",
     "index.html": "/SecretWishesIris/index.html",
-    "main.6b5c999b.css.map": "/SecretWishesIris/static/css/main.6b5c999b.css.map",
-    "main.9e72631c.js.map": "/SecretWishesIris/static/js/main.9e72631c.js.map"
+    "main.f34e10cb.css.map": "/SecretWishesIris/static/css/main.f34e10cb.css.map",
+    "main.0b38de92.js.map": "/SecretWishesIris/static/js/main.0b38de92.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b5c999b.css",
-    "static/js/main.9e72631c.js"
+    "static/css/main.f34e10cb.css",
+    "static/js/main.0b38de92.js"
   ]
 }
